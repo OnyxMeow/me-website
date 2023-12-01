@@ -1,0 +1,64 @@
+body {
+	background-image: url('20231108175839_1.jpg');
+}
+h1 {
+	border: 3px solid white;
+	size: 50px;
+}
+.gay {
+	text-align: center;
+	background-color:lightblue;
+	font-size: 60px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.gay-paragraph {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font-size: 40px;
+	width: 400px;
+}
+.centering {
+	display: flex;
+	flex-wrap: nowrap;
+	border: 2px solid white;
+	width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+}
+.twilightsparkle {
+	text-align: center;
+	background-color:aliceblue;
+	width: 400px;
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.cadence {
+	text-align: left;
+	align-content: center;
+	color: white;
+	font-size: 25px;
+	margin-top: -330px;
+	margin-left: 1180px;
+}
+.rainbow {
+	border: 2px solid white;
+	background-color: antiquewhite;
+	font-size: 50px;
+	margin-left: 300px;
+	margin-top: -300px;
+	width:fit-content;
+}
+.rainbow2 {
+	border: 2px solid white;
+	background-color: antiquewhite;
+	font-size: 50px;
+	margin-left: 1380px;
+	margin-top: -72px;
+	width:fit-content;
+	padding-top: 10px;
+}
